@@ -15,7 +15,7 @@ h1 {
   background-color: #79756f;
   margin: 0;
   border-top: 4px solid #595625;
-  padding: .3em;
+  padding-top: .3em;
 }
 
 .nav {
@@ -25,6 +25,7 @@ h1 {
   text-align: center;
   border-bottom: 4px solid #595625;
   font-family: sans-serif;
+  padding: 0.3em;
 }
 
 .nav a {
