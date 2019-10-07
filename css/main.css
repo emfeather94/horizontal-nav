@@ -48,8 +48,8 @@ body {
 }
 
 .nav li:hover {
-  background-color: #f33;
-  color: #fff;
+  background-color: #ff3333;
+  color: #ffffff;
   padding: .5rem .75rem;
   margin: .3em 0;
 }
