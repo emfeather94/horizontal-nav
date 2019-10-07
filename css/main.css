@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
+  margin: auto;
 }
 
 *, *::before, *::after {
@@ -9,13 +10,17 @@ html {
 }
 
 h1 {
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
   color: #fff;
   text-align: center;
   background-color: #79756f;
   margin: 0;
   border-top: 4px solid #595652;
   padding-top: .3em;
+}
+
+body {
+  margin-left: o;
 }
 
 .nav {
@@ -25,12 +30,11 @@ h1 {
   text-align: center;
   border-bottom: 4px solid #595652;
   font-family: sans-serif;
-  padding: 0.3em;
+  padding: .5rem .75rem;
 }
 
 .nav a {
   color: #fff;
-  padding-bottom: .3em;
   text-decoration: none;
 }
 
