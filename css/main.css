@@ -30,7 +30,7 @@ body {
   text-align: center;
   border-bottom: 4px solid #595652;
   font-family: sans-serif;
-  padding: .5rem .75rem;
+  padding: 0 .75rem .5rem .75rem;
 }
 
 .nav a {
