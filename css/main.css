@@ -50,5 +50,5 @@ body {
 .nav li:hover {
   background-color: #f33;
   color: #fff;
-  border-color: inherit;
+  border-color: #f33;
 }
