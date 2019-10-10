@@ -45,6 +45,8 @@ body {
 
 .nav li {
   display: inline-block;
+  margin: .3em 0;
+  padding: .3rem;
 }
 
 .nav li a:hover {
