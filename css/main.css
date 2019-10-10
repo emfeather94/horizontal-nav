@@ -36,10 +36,6 @@ body {
 .nav a {
   color: #fff;
   text-decoration: none;
-}
-
-.nav li {
-  display: inline-block;
   padding: .5rem .75rem;
   background-color: #713837;
   text-align: center;
@@ -47,8 +43,15 @@ body {
   border-radius: 5px;
 }
 
-.nav li:hover {
+.nav li {
+  display: inline-block;
+}
+
+.nav li a:hover {
   background-color: #f33;
   color: #fff;
   border-color: #f33;
+  padding: .5rem .75rem;
+  text-align: center;
+  border-radius: 5px;
 }
